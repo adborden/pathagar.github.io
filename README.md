@@ -1,3 +1,5 @@
+_This repo is deprecated. Work has moved to [olpc-sf/pathagar.info](https://github.com/olpc-sf/pathagar.info)._
+
 # Pathagar
 
 Pathagar is an offline digital learning library. This repo contains the
